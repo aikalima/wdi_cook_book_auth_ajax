@@ -1,4 +1,4 @@
-== WDI Cook Book app 
+=== WDI Cook Book app 
 ... with authentication/authorization and session management
 
 ==Install instructions
